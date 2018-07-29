@@ -1,0 +1,37 @@
+[
+{"rank":1,
+ "role":"Wonder Woman",
+ "status":"heroine",
+ "name":"Diana Prince"
+},
+{"rank":3,
+ "role":"Wonder Girl",
+ "status":"heroine",
+ "name":"Cassandra Sandsmark"
+},
+{"rank":4,
+ "role":"Cheetah",
+ "status":"villain",
+ "name":"Barbara Minerva"
+},
+{"rank":5,
+ "role":"Sorceress",
+ "status":"villain",
+ "name":"Circe"
+},
+{"rank":7,
+ "role":"Sidekick",
+ "status":"hero",
+ "name":"Steve Trevor"
+},
+{"rank":2,
+ "role":"Queen",
+ "status":"leader",
+ "name":"Hippolyta"
+},
+{"rank":3,
+ "role":"General",
+ "status":"leader",
+ "name":"Antiope"
+}
+]
